@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=shariq-endeavr&color=blueviolet&style=for-the-badge)
 <!--
 **shariq-endeavr/shariq-endeavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
