@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Stats](./profile/stats.svg)
-
 <!--
 **shariq-endeavr/shariq-endeavr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
